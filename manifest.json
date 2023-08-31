@@ -1,0 +1,320 @@
+{
+  "payload": {
+    "allShortcutsEnabled": false,
+    "fileTree": {
+      "": {
+        "items": [
+          {
+            "name": "manifest.json",
+            "path": "manifest.json",
+            "contentType": "file"
+          }
+        ],
+        "totalCount": 1
+      }
+    },
+    "fileTreeProcessingTime": 1.460175,
+    "foldersToFetch": [],
+    "reducedMotionEnabled": null,
+    "repo": {
+      "id": 684209716,
+      "defaultBranch": "main",
+      "name": "test_manifest",
+      "ownerLogin": "michPl",
+      "currentUserCanPush": false,
+      "isFork": false,
+      "isEmpty": false,
+      "createdAt": "2023-08-28T17:13:48.000Z",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/3993913?v=4",
+      "public": true,
+      "private": false,
+      "isOrgOwned": false
+    },
+    "symbolsExpanded": false,
+    "treeExpanded": true,
+    "refInfo": {
+      "name": "main",
+      "listCacheKey": "v0:1693242942.0",
+      "canEdit": false,
+      "refType": "branch",
+      "currentOid": "75a07ac3ea14c47d5242e6481f2d54b2b5eec616"
+    },
+    "path": "manifest.json",
+    "currentUser": null,
+    "blob": {
+      "rawLines": [
+        "{",
+        "    \"name\": \"Avtopodbor website\",",
+        "    \"short_name\": \"Avtopodbor\",",
+        "    \"start_url\": \"/index.html\",",
+        "    \"display\": \"standalone\",",
+        "    \"background_color\": \"#F4F4F4\",",
+        "    \"theme_color\": \"#F4F4F4\",",
+        "    \"orientation\": \"portrait-primary\",",
+        "}"
+      ],
+      "stylingDirectives": [
+        [],
+        [
+          {
+            "start": 4,
+            "end": 10,
+            "cssClass": "pl-ent"
+          },
+          {
+            "start": 12,
+            "end": 32,
+            "cssClass": "pl-s"
+          },
+          {
+            "start": 12,
+            "end": 13,
+            "cssClass": "pl-pds"
+          },
+          {
+            "start": 31,
+            "end": 32,
+            "cssClass": "pl-pds"
+          }
+        ],
+        [
+          {
+            "start": 4,
+            "end": 16,
+            "cssClass": "pl-ent"
+          },
+          {
+            "start": 18,
+            "end": 30,
+            "cssClass": "pl-s"
+          },
+          {
+            "start": 18,
+            "end": 19,
+            "cssClass": "pl-pds"
+          },
+          {
+            "start": 29,
+            "end": 30,
+            "cssClass": "pl-pds"
+          }
+        ],
+        [
+          {
+            "start": 4,
+            "end": 15,
+            "cssClass": "pl-ent"
+          },
+          {
+            "start": 17,
+            "end": 30,
+            "cssClass": "pl-s"
+          },
+          {
+            "start": 17,
+            "end": 18,
+            "cssClass": "pl-pds"
+          },
+          {
+            "start": 29,
+            "end": 30,
+            "cssClass": "pl-pds"
+          }
+        ],
+        [
+          {
+            "start": 4,
+            "end": 13,
+            "cssClass": "pl-ent"
+          },
+          {
+            "start": 15,
+            "end": 27,
+            "cssClass": "pl-s"
+          },
+          {
+            "start": 15,
+            "end": 16,
+            "cssClass": "pl-pds"
+          },
+          {
+            "start": 26,
+            "end": 27,
+            "cssClass": "pl-pds"
+          }
+        ],
+        [
+          {
+            "start": 4,
+            "end": 22,
+            "cssClass": "pl-ent"
+          },
+          {
+            "start": 24,
+            "end": 33,
+            "cssClass": "pl-s"
+          },
+          {
+            "start": 24,
+            "end": 25,
+            "cssClass": "pl-pds"
+          },
+          {
+            "start": 32,
+            "end": 33,
+            "cssClass": "pl-pds"
+          }
+        ],
+        [
+          {
+            "start": 4,
+            "end": 17,
+            "cssClass": "pl-ent"
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "cssClass": "pl-s"
+          },
+          {
+            "start": 19,
+            "end": 20,
+            "cssClass": "pl-pds"
+          },
+          {
+            "start": 27,
+            "end": 28,
+            "cssClass": "pl-pds"
+          }
+        ],
+        [
+          {
+            "start": 4,
+            "end": 17,
+            "cssClass": "pl-ent"
+          },
+          {
+            "start": 19,
+            "end": 37,
+            "cssClass": "pl-s"
+          },
+          {
+            "start": 19,
+            "end": 20,
+            "cssClass": "pl-pds"
+          },
+          {
+            "start": 36,
+            "end": 37,
+            "cssClass": "pl-pds"
+          }
+        ],
+        []
+      ],
+      "csv": null,
+      "csvError": null,
+      "dependabotInfo": {
+        "showConfigurationBanner": false,
+        "configFilePath": null,
+        "networkDependabotPath": "/michPl/test_manifest/network/updates",
+        "dismissConfigurationNoticePath": "/settings/dismiss-notice/dependabot_configuration_notice",
+        "configurationNoticeDismissed": null,
+        "repoAlertsPath": "/michPl/test_manifest/security/dependabot",
+        "repoSecurityAndAnalysisPath": "/michPl/test_manifest/settings/security_analysis",
+        "repoOwnerIsOrg": false,
+        "currentUserCanAdminRepo": false
+      },
+      "displayName": "manifest.json",
+      "displayUrl": "https://github.com/michPl/test_manifest/blob/main/manifest.json?raw=true",
+      "headerInfo": {
+        "blobSize": "235 Bytes",
+        "deleteInfo": {
+          "deleteTooltip": "You must be signed in to make or propose changes"
+        },
+        "editInfo": {
+          "editTooltip": "You must be signed in to make or propose changes"
+        },
+        "ghDesktopPath": "https://desktop.github.com",
+        "gitLfsPath": null,
+        "onBranch": true,
+        "shortPath": "e66e1c3",
+        "siteNavLoginPath": "/login?return_to=https%3A%2F%2Fgithub.com%2FmichPl%2Ftest_manifest%2Fblob%2Fmain%2Fmanifest.json",
+        "isCSV": false,
+        "isRichtext": false,
+        "toc": null,
+        "lineInfo": {
+          "truncatedLoc": "9",
+          "truncatedSloc": "9"
+        },
+        "mode": "file"
+      },
+      "image": false,
+      "isCodeownersFile": null,
+      "isPlain": false,
+      "isValidLegacyIssueTemplate": false,
+      "issueTemplateHelpUrl": "https://docs.github.com/articles/about-issue-and-pull-request-templates",
+      "issueTemplate": null,
+      "discussionTemplate": null,
+      "language": "JSON",
+      "languageID": 174,
+      "large": false,
+      "loggedIn": false,
+      "newDiscussionPath": "/michPl/test_manifest/discussions/new",
+      "newIssuePath": "/michPl/test_manifest/issues/new",
+      "planSupportInfo": {
+        "repoIsFork": null,
+        "repoOwnedByCurrentUser": null,
+        "requestFullPath": "/michPl/test_manifest/blob/main/manifest.json",
+        "showFreeOrgGatedFeatureMessage": null,
+        "showPlanSupportBanner": null,
+        "upgradeDataAttributes": null,
+        "upgradePath": null
+      },
+      "publishBannersInfo": {
+        "dismissActionNoticePath": "/settings/dismiss-notice/publish_action_from_dockerfile",
+        "dismissStackNoticePath": "/settings/dismiss-notice/publish_stack_from_file",
+        "releasePath": "/michPl/test_manifest/releases/new?marketplace=true",
+        "showPublishActionBanner": false,
+        "showPublishStackBanner": false
+      },
+      "renderImageOrRaw": false,
+      "richText": null,
+      "renderedFileInfo": null,
+      "shortPath": null,
+      "tabSize": 8,
+      "topBannersInfo": {
+        "overridingGlobalFundingFile": false,
+        "globalPreferredFundingPath": null,
+        "repoOwner": "michPl",
+        "repoName": "test_manifest",
+        "showInvalidCitationWarning": false,
+        "citationHelpUrl": "https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files",
+        "showDependabotConfigurationBanner": false,
+        "actionsOnboardingTip": null
+      },
+      "truncated": false,
+      "viewable": true,
+      "workflowRedirectUrl": null,
+      "symbols": {
+        "timedOut": false,
+        "notAnalyzed": true,
+        "symbols": []
+      }
+    },
+    "copilotInfo": null,
+    "csrf_tokens": {
+      "/michPl/test_manifest/branches": {
+        "post": "x4orv0LVQZenSYYHpY757XM7RaU08zS16QFZ9LG6YCLdbMdp4d4YqrZilHK6oUX87rVQQgJ3ybZpXOFFFoEzIA"
+      },
+      "/repos/preferences": {
+        "post": "7nUGuUGXtLD8cEBUVciOVRX07PjHFAQ1KtYE-Un7Ek0F9sYkKfflq57cHb1oqfs2_yn-DwePtfxcoBdJkC3QUg"
+      }
+    }
+  },
+  "title": "test_manifest/manifest.json at main · michPl/test_manifest",
+  "name": "AvtoPodbor",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "avtopodbor",
+  "id": "avtpdbr2023"
+}
